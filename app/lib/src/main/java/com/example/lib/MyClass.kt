@@ -71,4 +71,6 @@ fun main(){
      val variable = 2
      val testinoc = 3
      val notSupportedError = 4
+
+    // creando la funcionalidad de registrarse en la app
 }
