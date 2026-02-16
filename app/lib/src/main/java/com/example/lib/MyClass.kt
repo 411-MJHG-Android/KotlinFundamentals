@@ -67,12 +67,6 @@ fun main(){
 
     //Cambio importante
     //CAMBIO PENDIENTE
-    //cambio que se me olvido:
-    //ADSLKASKDSJ
-    /*
-    dskjadskljkjads
-    dsjñadfskjñlklads
-    fkjñsaknfñdlds
-    */
+    //cambio que se me olvido
 
 }
