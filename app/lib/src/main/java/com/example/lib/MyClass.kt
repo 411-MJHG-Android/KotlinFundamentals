@@ -73,4 +73,7 @@ fun main(){
      val notSupportedError = 4
 
     // creando la funcionalidad de registrarse en la app
+
+    //Creando la conexion con la api
+
 }
