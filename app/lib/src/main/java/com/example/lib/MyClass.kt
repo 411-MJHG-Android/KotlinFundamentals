@@ -68,5 +68,7 @@ fun main(){
     //Cambio importante
     //CAMBIO PENDIENTE
     //cambio que se me olvido
-
+     val variable = 2
+     val testinoc = 3
+     val notSupportedError = 4
 }
