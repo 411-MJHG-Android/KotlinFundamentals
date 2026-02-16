@@ -76,4 +76,6 @@ fun main(){
 
     //Creando la conexion con la api
 
+    //Creadno la interfaz grafica de mi app
+
 }
