@@ -81,4 +81,6 @@ fun main(){
     //Creando pantalla de inicio
 
     //Creando la interfaz
+
+    //Creando conexion a la API
 }
